@@ -9,5 +9,19 @@ Within the project, I performed key data analysis to build a machine learning mo
 * **Model Implementation**: Built and trained Decision Tree and Random Forest classifiers to predict penguin species.
 * **Model Evaluation**: Evaluated models performance based on accuracy, precision, recall, and F1-score, and selected the best performing model.
 
+## Installation
+To work with this project, just clone and install the required dependencies:
+``` bash
+git clone https://github.com/tiffanyle1302/PenguinAnalysis
+cd PenguinAnalysis
+pip install -r requirements.txt
+```
+
+## Usage
+To see my analysis and model, just run Jupyter Notebook:
+``` bash
+jupyter notebook Penguin.ipynb
+```
+
 ## Results
 Through this project, I was able to use different machine learning models to predict and classify different penguin species with varying degrees of accuracy. With this said, the Random Forest model showed the best performance with 99% accuracy. 
