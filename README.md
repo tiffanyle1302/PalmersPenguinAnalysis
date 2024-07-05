@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Usage
 To see my analysis and model, just run Jupyter Notebook:
 ``` bash
-jupyter notebook 
+jupyter notebook Penguin.ipynb
 ```
 
 ## Results
