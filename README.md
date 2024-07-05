@@ -1,4 +1,4 @@
-# PenguinAnalysis
+# PalmersPenguinAnalysis
 This project aims to predict the species of penguins using the Palmer's Penguins dataset. The dataset includes various features such as bill length, bill depth, flipper length, body mass, island location, and sex which are used to classify three different penguin species: Adelie, Chinstrap, and Gentoo. This project motivation was driven by my peers obsession with different penguin species and lots of cute penguin videos. :)
 
 ## Overview
@@ -12,7 +12,7 @@ Within the project, I performed key data analysis to build a machine learning mo
 ## Installation
 To work with this project, just clone and install the required dependencies:
 ``` bash
-git clone https://github.com/tiffanyle1302/PenguinAnalysis
+git clone https://github.com/tiffanyle1302/PalmersPenguinAnalysis
 cd PenguinAnalysis
 pip install -r requirements.txt
 ```
